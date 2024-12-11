@@ -1,0 +1,14 @@
+site_name: Audition Toolkit🎼🎹
+site_url: https://demo.com
+
+nav:
+  - Home(AT)🙏 : index.md
+  - Advanced edit 🎵📊🎚️: equalizer.md
+  - Trim & Split ✂️〰️✂️ : trimSplit.md
+  - Voice changer & Reverse 🗣️🎙️ ◀️: voiceReverse.md
+  - Karaoke Extractor 🗣️🚫🎶 : karaoke.md
+  - Magic Enhancer 🎙️🎚️🔊: enhancer.md
+
+
+theme:
+    name: material

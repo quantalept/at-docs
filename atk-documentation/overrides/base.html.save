@@ -1,0 +1,16 @@
+<!-- overrides/base.html -->
+
+{% extends "base.html" %}
+
+{% block footer %}
+  {# Leave this block empty to remove the default footer content #}
+{% endblock %}
+<!-- overrides/base.html -->
+
+{% extends "base.html" %}
+
+{% block footer %}
+  {{ super() }}
+  {# Set the footer content to an empty string #}
+  {# You can also try {% set footer_content = "" %} #}
+{% endblock %}
