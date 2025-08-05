@@ -3,12 +3,24 @@ site_url: https://demo.com
 
 nav:
   - Home(AT)🙏 : index.md
+  - Pro Features 🚀 : pro.md
   - Advanced edit 🎵📊🎚️: equalizer.md
-  - Trim & Split ✂️〰️✂️ : trimSplit.md
-  - Voice changer & Reverse 🗣️🎙️ ◀️: voiceReverse.md
+  - Record 🎤🎧 : record.md
+  - Trim  ✂️ : trim.md
+  - Voice Changer 🗣️🎙️ : voice_changer.md
+  - Split ✂️✂️ : split.md
   - Karaoke Extractor 🗣️🚫🎶 : karaoke.md
+  - Reverse 🔄 : reverse.md
   - Magic Enhancer 🎙️🎚️🔊: enhancer.md
+  - Cut : cut.md
+  - Preview 🎧 : preview.md
 
 
 theme:
     name: material
+    palette:
+      scheme: default
+      primary: custom  # required to allow custom color override
+
+extra_css:
+  - extra.css
