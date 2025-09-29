@@ -17,17 +17,8 @@
   --md-code-bg-color: #2b2b2b;
   --md-code-fg-color: #f8f8f2;
 
-  /* Links */
-  --md-typeset-a-color: #03dac5;
-  --md-typeset-a-hover-color: #00bfa5;
 }
 
-/* Sidebar link hover & active */
-.md-nav__item--active > .md-nav__link,
-.md-nav__link:hover {
-    color: var(--md-primary-fg-color);
-    font-weight: bold;
-}
 
 /* Cards / admonitions */
 .md-typeset .admonition {
