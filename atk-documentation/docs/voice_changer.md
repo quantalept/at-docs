@@ -11,8 +11,8 @@ This effect works by modifying the **frequency and timing** of the voice wavefor
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01vc.jpeg" alt="Voice changer Button" width="200"/>
-      <img src="/assets/02vc.jpeg" alt="Voice changer knob" width="200"/>
+      <img src="../assets/01vc.jpeg" alt="Voice changer Button" width="200"/>
+      <img src="../assets/02vc.jpeg" alt="Voice changer knob" width="200"/>
    </div>
 
 ### 🎚️ Voice Changer Knob – User Guide

@@ -20,9 +20,9 @@ To unlock powerful features like **Karaoke**, advanced **audio editing tools**, 
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/pro1.jpeg" alt="Pro Icon" width="200"/>
-      <img src="/assets/pro2.jpeg" alt="Pro plans " width="200"/>
-      <img src="/assets/pro3.jpeg" alt="Pro pay" width="200"/>
+      <img src="../assets/pro1.jpeg" alt="Pro Icon" width="200"/>
+      <img src="../assets/pro2.jpeg" alt="Pro plans " width="200"/>
+      <img src="../assets/pro3.jpeg" alt="Pro pay" width="200"/>
    </div>
 
 ## 🔁 Restore Purchase (Cross-Device Access)

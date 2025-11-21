@@ -24,8 +24,8 @@ Together, these methods help isolate and remove vocal elements, leaving behind a
    - 1 credit is required for every **5-minute song**.
    - The credit counter may take a few seconds to update after track selection.
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01karaoke.jpeg" alt="Karaoke Button" width="200"/>
-      <img src="/assets/02karaoke.jpeg" alt="Karaoke  Screen" width="200"/>
+      <img src="../assets/01karaoke.jpeg" alt="Karaoke Button" width="200"/>
+      <img src="../assets/02karaoke.jpeg" alt="Karaoke  Screen" width="200"/>
    </div>
 3. If you have **insufficient credits**:
    - Click the **Credits button**.
@@ -33,8 +33,8 @@ Together, these methods help isolate and remove vocal elements, leaving behind a
    - Choose to add either **5 credits** or **10 credits** as per your need.
 4. Once credits are available, click the **Save** button to proceed.
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/03karaoke.jpeg" alt="Karaoke Save" width="200"/>
-      <img src="/assets/04karaoke.jpeg" alt="Karaoke  Processing" width="200"/>
+      <img src="../assets/03karaoke.jpeg" alt="Karaoke Save" width="200"/>
+      <img src="../assets/04karaoke.jpeg" alt="Karaoke  Processing" width="200"/>
    </div>
 5. The file will now:
    - Get **compressed**, 

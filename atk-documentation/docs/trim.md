@@ -23,9 +23,9 @@ Trimming ensures a **clean, focused, and professional-sounding** result. It’s 
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01trim.jpeg" alt="Trim Button" width="200"/>
-      <img src="/assets/02trim.jpeg" alt="Trim Slider " width="200"/>
-      <img src="/assets/03trim.jpeg" alt="Trim Selected " width="200"/>
+      <img src="../assets/01trim.jpeg" alt="Trim Button" width="200"/>
+      <img src="../assets/02trim.jpeg" alt="Trim Slider " width="200"/>
+      <img src="../assets/03trim.jpeg" alt="Trim Selected " width="200"/>
    </div>
 
 

@@ -1,9 +1,8 @@
-site_name: Audition Toolkit🎼🎹
-site_url: https://demo.com
+site_name: Audition Toolkit🎼🎹 User guide
+site_url: https://quantalept.github.io/at-docs/
 
 nav:
   - Home(AT)🙏 : index.md
-  - Pro Features 🚀 : pro.md
   - Advanced edit 🎵📊🎚️: equalizer.md
   - Record 🎤🎧 : record.md
   - Trim  ✂️ : trim.md
@@ -12,8 +11,10 @@ nav:
   - Karaoke Extractor 🗣️🚫🎶 : karaoke.md
   - Reverse 🔄 : reverse.md
   - Magic Enhancer 🎙️🎚️🔊: enhancer.md
-  - Cut : cut.md
-  - Preview 🎧 : preview.md
+  - Pro Features 🚀 : pro.md
+  - Customization 🎨 : quick_start.md
+  - General Functions 🎉 : preview.md
+
 
 
 theme:

@@ -12,9 +12,9 @@ Splitting is a fundamental editing technique widely used in music production, po
 
 #### Steps:
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01split.jpeg" alt="Split option" width="200"/>
-      <img src="/assets/02split.jpeg" alt="Split dragged" width="200"/>
-      <img src="/assets/03split.jpeg" alt="Split segment" width="200"/>
+      <img src="../assets/01split.jpeg" alt="Split option" width="200"/>
+      <img src="../assets/02split.jpeg" alt="Split dragged" width="200"/>
+      <img src="../assets/03split.jpeg" alt="Split segment" width="200"/>
    </div>
 
 

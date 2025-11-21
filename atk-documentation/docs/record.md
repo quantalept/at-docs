@@ -28,9 +28,9 @@ These controls work **just like in Advanced Edit**, but in **real-time**.
 
 2. A recording panel opens—click **Start Recording** 🟥 to begin.
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01Record.jpeg" alt="Record Button" width="200"/>
-      <img src="/assets/02Record.jpeg" alt="Recording Panel" width="200"/>
-      <img src="/assets/03Record.jpeg" alt="Record Pause" width="200"/>
+      <img src="../assets/01Record.jpeg" alt="Record Button" width="200"/>
+      <img src="../assets/02Record.jpeg" alt="Recording Panel" width="200"/>
+      <img src="../assets/03Record.jpeg" alt="Record Pause" width="200"/>
    </div>
 
 3. During recording:
@@ -39,9 +39,9 @@ These controls work **just like in Advanced Edit**, but in **real-time**.
    - During recording, you can adjust the sensitivity in decibels to reduce background noise and prevent the capture of unwanted sounds. 
 4. Once you're done, tap **Stop** ⏹️ to finish recording.
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/04Record.jpeg" alt="Record Resume" width="200"/>
-      <img src="/assets/05Record.jpeg" alt="Record Stop" width="200"/>
-      <img src="/assets/06Record.jpeg" alt="Editing recorded" width="200"/>
+      <img src="../assets/04Record.jpeg" alt="Record Resume" width="200"/>
+      <img src="../assets/05Record.jpeg" alt="Record Stop" width="200"/>
+      <img src="../assets/06Record.jpeg" alt="Editing recorded" width="200"/>
    </div>
 5. After stopping, you’ll be taken to the **Advanced Edit** screen where you can:
    - Apply all pro-level effects (bass, pitch, tempo, etc.).

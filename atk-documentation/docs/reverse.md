@@ -11,8 +11,8 @@ Reversing a vocal line, instrument stroke, or ambient sound can surprise the lis
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01reverse.jpeg" alt="Reverse Button" width="200"/>
-      <img src="/assets/02reverse.jpeg" alt="Reverse Screen" width="200"/>
+      <img src="../assets/01reverse.jpeg" alt="Reverse Button" width="200"/>
+      <img src="../assets/02reverse.jpeg" alt="Reverse Screen" width="200"/>
    </div>
 
 ### 🛠️ User Guide:

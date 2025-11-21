@@ -1,17 +1,5 @@
-# Welcome to the Audition Toolkit Reference Guide! 
 
-Hello audiophile, whether you're a beginner looking to familiarise yourself with the terminology used in and around the Audition Toolkit app or an expert aiming to delve into the minutiae of the tools for achieving superior audio quality — this guide is tailored for you.
-
-For newcomers to the realm of audio editing, we recommend reading this guide in its entirety. It will equip you with comprehensive knowledge about various aspects of audio editing. In addition to the core content, we've included practical examples that demonstrate the application of the Audition Toolkit in real-world scenarios.
-
-If you encounter specific uncertainties or have questions about particular areas, use the document's index. This handy tool allows you to swiftly navigate to the exact section you need, enabling a seamless learning experience.
-
-Feel free to explore and absorb the wealth of information presented here. 
-
-Stay tuned for ongoing updates and news about the Audition Toolkit.  
-**Happiiee editing! 😉**
-
----
+# Quick Start Guide
 
 ## 🎧 Introduction – Audition Toolkit
 
@@ -23,48 +11,39 @@ Audition Toolkit is an application developed by the emerging Indian company, **Q
 
 Whether you're enhancing voice recordings or refining musical compositions, Audition Toolkit puts powerful editing tools right at your fingertips.
 
----
+## Features :
 
-### 📁 Default File Save Location
+[ Advanced Edit](equalizer.md) -
+Fine-tune your audio tracks with professional controls. Adjust volume, and effects like pitch, tempo, reverb, bass, treble, and echo to create the perfect mix.
 
-Every file you edit or export will be **automatically saved** to a folder named `Audition` inside your device’s **Music** folder.
+[ Record](record.md) -
+Record voice, instruments, or any audio input directly within the app. Apply the same advanced effects as in Advanced Edit to instantly enhance your recordings.
 
-> ❗ This design is intentional: newer Android versions request folder access every time if you try to save somewhere else. To keep it smooth, we use the Music/Audition folder by default — no repeated permission prompts!
+[ Trim](trim.md) -
+Quickly cut out unwanted sections from your audio. Mark start and end points with centisecond precision for seamless edits.
 
----
+[ Voice Changer](voice_changer.md) -
+Transform your voice with pitch-based controls. Make it bolder, leaner, or completely different with just a simple knob. Perfect for creative projects or fun
 
-### ⚙️ Settings Customization
+[ Split](split.md) -
+Divide your tracks into multiple segments easily. Remove or rearrange sections with a single click, keeping the workflow simple and precise.
 
-From the **bottom-right Settings icon**, you can modify several important preferences:
+[ Karaoke](karaoke.md) -
+Remove vocals from any track to create karaoke-ready versions. Uses AI-trained models, phase inversion, and center-channel extraction to retain music clarity while eliminating vocals.
 
-- **Default Format**  
-  Change your audio export format between `.mp3`, `.wav`, or `.aac`.
+[ Reverse](reverse.md) -
+Play audio backwards for creative effects, musical experimentation, or to discover hidden patterns.
 
-- **Preview Duration**  
-  Choose how long the preview should be:  
-  `10s`, `20s`, or `30s` — helpful for quickly reviewing longer tracks.
+[ Magic Enhancer](enhancer.md)-
+Automatically enhance audio quality and clarity. Add ambience, spatial effects, and improve fidelity, giving your tracks a polished, professional sound.
 
-- **Length Filter**  
-  Enable this to automatically skip **short samples** such as alert tones, notifications, or ringtones — perfect for keeping your workspace clean.
+[Customization](quick_start.md) - General overview and personalize app settings to match your workflow. 
 
----
+[ Pro Features](pro.md) - 
+Unlock premium tools for professional audio editing. Access exclusive features, advanced effects, and the full Karaoke functionality.
 
-### 🕘 Recent Files
+[ Common Functions](preview.md) -
+Listen to edits in real-time before saving. Ensure every change matches your expectations and fine-tune your work easily.
 
-In the **bottom pane**, you’ll find a tab called **Recents**.  
-It displays your **recently edited audio files** so you can easily reopen and modify them later without searching manually.
-
----
-
-### 👁️ Pro Tip:
-
-> Always preview your audio using the **👁️ Preview icon** before exporting! It ensures your edits are just right.
-
----
-
-### 📬 Need Help?
-
-For queries, suggestions, or feedback, feel free to reach out at  
-📧 [atsupport@quantalept.com](mailto:atsupport@quantalept.com)
-
-Let the learning and creativity begin!
+[ Customization](quick_start.md)
+See the Customization section in quick_start.md for all general customization options, including changing the default settings location.

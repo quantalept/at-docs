@@ -12,8 +12,8 @@ Each knob operates on a **0 to 5 scale**, allowing you to finely tailor your sou
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01enhancer.jpeg" alt="Enhancer Button" width="200"/>
-      <img src="/assets/02enhancer.jpeg" alt="Enhancer options " width="200"/>
+      <img src="../assets/01enhancer.jpeg" alt="Enhancer Button" width="200"/>
+      <img src="../assets/02enhancer.jpeg" alt="Enhancer options " width="200"/>
    </div>
 
 ## a. 🌫️ Ambience

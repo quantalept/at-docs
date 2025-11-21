@@ -6,7 +6,7 @@
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/01eq.jpeg" alt="Advanced edit Button" width="200"/>
+      <img src="../assets/01eq.jpeg" alt="Advanced edit Button" width="200"/>
    </div>
 
 ## a. Bass
@@ -32,7 +32,7 @@
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/bass.jpeg" alt="Bass , Treble ,Volume" width="200"/>
+      <img src="../assets/bass.jpeg" alt="Bass , Treble ,Volume" width="200"/>
    </div>
 
 ## c. Volume
@@ -59,7 +59,7 @@
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/pitch.jpeg" alt="Pitch , tempo" width="200"/>
+      <img src="../assets/pitch.jpeg" alt="Pitch , tempo" width="200"/>
    </div>
 
 ## e. Tempo
@@ -87,7 +87,7 @@
 
 ---
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/echo.jpeg" alt="Echo Fade" width="200"/>
+      <img src="../assets/echo.jpeg" alt="Echo Fade" width="200"/>
    </div>
 
 ## g. Fade
@@ -115,7 +115,7 @@
 - 🌀 **Slinky**
 
    <div style="display: flex; gap: 20px; margin: 10px 0;">
-      <img src="/assets/reverb.jpeg" alt="Cut Button" width="200"/>
+      <img src="../assets/reverb.jpeg" alt="Cut Button" width="200"/>
    </div>
 
 ### 🔧 How to Use:
