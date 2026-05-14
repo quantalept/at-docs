@@ -45,5 +45,10 @@ Unlock premium tools for professional audio editing. Access exclusive features, 
 [ Common Functions](preview.md) -
 Listen to edits in real-time before saving. Ensure every change matches your expectations and fine-tune your work easily.
 
+[Data deletion](datadeletion.md) -
+Know how to clear your usage analytic data from the audition toolkit app
+
+
+
 [ Customization](quick_start.md)
 See the Customization section in quick_start.md for all general customization options, including changing the default settings location.

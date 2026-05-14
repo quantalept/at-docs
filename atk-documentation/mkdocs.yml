@@ -3,6 +3,7 @@ site_url: https://quantalept.github.io/at-docs/
 
 nav:
   - Home(AT)🙏 : index.md
+  - Data Deletion: datadeletion.md
   - Advanced edit 🎵📊🎚️: equalizer.md
   - Record 🎤🎧 : record.md
   - Trim  ✂️ : trim.md
@@ -14,6 +15,7 @@ nav:
   - Pro Features 🚀 : pro.md
   - Customization 🎨 : quick_start.md
   - General Functions 🎉 : preview.md
+  - Save Audio: save.md
 
 
 
